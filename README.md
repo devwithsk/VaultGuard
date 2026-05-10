@@ -50,8 +50,4 @@ Since this extension is not yet published on the Chrome Web Store, you can insta
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/your-repo-name/issues) if you want to contribute.
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/devwithsk/VaultGuard/issues) if you want to contribute.
