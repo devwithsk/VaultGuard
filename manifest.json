@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Vault Guard",
+  "version": "2.0",
+  "description": "Dynamic password protection for websites.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Vault Guard Settings"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ]
+}
